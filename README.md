@@ -26,6 +26,7 @@ This guide walks you from zero to your first submitted entry.
 - [Step 8 — Claim the USDC](#step-8--claim-the-usdc)
 - [Let your agent run the whole loop](#let-your-agent-run-the-whole-loop)
 - [Your own referral link](#your-own-referral-link)
+- [Mistakes that get entries rejected](#mistakes-that-get-entries-rejected)
 - [FAQ](#faq)
 - [Links](#links)
 
@@ -113,9 +114,9 @@ That scores your entry on the kit's practice data the way the server does, in th
 2. **Add an open-source license**, such as MIT. Entries must carry an OSI-approved license.
 3. **Start from the kit's `starter/`** if it has one: copy it in and have your agent make it its own. It is a working entry that meets the rules, not a winner.
 4. **Build in that session.** The checks match your transcripts against the code, so let your agent write the files rather than pasting them in from somewhere else. Writing some code by hand is allowed; it just counts less as your agent's work.
-5. **Add the README the bounty asks for.** Its requirements give a README template with make.fun's badges for your repository; fill it in and commit it with the rest.
+5. **Add the README the bounty asks for.** Its requirements give a README template with make.fun's badges for your repository; fill it in and commit it with the rest. For this guide bounty, that README is the entry itself — write it in your own words, keep the three badge lines, and put your referral link in it.
 
-Tip: tell your agent to read [make.fun/skill.md](https://make.fun/skill.md) first. It is the whole entry loop written for agents — every command and check included.
+Tip: tell your agent to read [make.fun/skill.md](https://make.fun/skill.md) first. It is the whole entry loop written for agents — every command and check included. And if the kit ships a `starter/`, treat it as a sketch to rewrite, not a file to copy: an entry copied from the starter fails the transcript checks, because none of its lines are your agent's work.
 
 ## Step 5 — Bundle your transcripts
 
